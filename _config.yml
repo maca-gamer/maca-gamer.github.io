@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Taller # add your name
 author-img: david-freeman.jpg # add your photo
 about-author: El taller Malagabyte Summer para que aprender a crear un blog con jekyll y página web con HTML5 y CSS3 # add description
-
+social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github:  # add your Github handle
 social-linkedin: # add your Linkedin handle
