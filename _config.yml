@@ -1,15 +1,19 @@
+
+
 title: Sé más que un blogger
 description: > Aprende a crear un blog 
 permalink: ':title/'
 baseurl: "" 
 url: "https://canvas2017.github.io" 
-
-
 author: Sé más que un blogger 
 author-img: logo-pie.png 
-about-author: El taller Malagabyte Summer para aprender a crear un blog con jekyll y una página web con HTML5 y CSS3 # add description
+about-author: El taller Malagabyte Summer para aprender a crear un blog con jekyll y una página web con HTML5 y CSS3 
 social-twitter: 
 social-facebook: 
+
+
+
+
 
 
 # Disqus
