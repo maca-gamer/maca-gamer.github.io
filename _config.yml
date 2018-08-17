@@ -1,23 +1,19 @@
 title: Sé más que un blogger
-description: > # this means to ignore newlines until "baseurl:"
-  Aprende a crear un blog 
+description: > Aprende a crear un blog 
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://canvas2017.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+baseurl: "" 
+url: "https://canvas2017.github.io" 
 
-# Author Settings
-author: Sé más que un blogger # add your name
-author-img: david-freeman.jpg # add your photo
+
+author: Sé más que un blogger 
+author-img: logo-pie.png 
 about-author: El taller Malagabyte Summer para aprender a crear un blog con jekyll y una página web con HTML5 y CSS3 # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github:  # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-twitter: 
+social-facebook: 
+
 
 # Disqus
-discus-identifier:  # add your discus identifier
+discus-identifier:  
 
 # Tracker
 analytics: # Google Analytics
