@@ -773,7 +773,7 @@ html {
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #1f2c33;
   background-color: #ebebeb;
   margin: 0;
@@ -970,7 +970,7 @@ table tfoot td {
 }
 
 .about .author-name {
-  font-family: 'PT Serif', serif;
+  font-family: 'Allerta', sans-serif;
   margin: 0 0 10px;
   position: relative;
   padding-bottom: 15px;
@@ -997,7 +997,7 @@ table tfoot td {
 }
 
 .about p {
-  font-size: 16px;
+  font-size: 14px;
   margin: 0 0 10px;
 }
 
@@ -1164,13 +1164,14 @@ footer .copyright {
 }
 
 .post .post-content .post-title a {
-  font-family: 'PT Serif', serif;
+  font-family: 'Allerta', sans-serif;
   text-decoration: none;
   color: #3281b2;
 }
 
 .post .post-content p {
   margin-top: 0;
+ font-size: 16px;
 }
 
 a.older-posts, a.newer-posts {
