@@ -1060,6 +1060,10 @@ table tfoot td {
   right: 0;
   background-color:  #ff784f;
 }
+nav a.active {
+	background: #3281b2;
+	color: #ffffff;
+}
 
 .contact ul {
   margin: 0;
