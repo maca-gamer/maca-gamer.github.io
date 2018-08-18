@@ -1060,7 +1060,7 @@ table tfoot td {
   right: 0;
   background-color:  #ff784f;
 }
-nav a.active {
+nav ul li a.active {
 	background: #3281b2;
 	color: #ffffff;
 }
