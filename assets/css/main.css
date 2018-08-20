@@ -1086,15 +1086,32 @@ nav ul li a {
   text-align: center;
 }
 
+.menu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+
 .contact ul li {
   display: inline-block;
   margin-left: 10px;
 }
 
+
 .contact ul li:first-child {
   margin-left: 0;
 }
 
+.menu ul li {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+
+.menu ul li:first-child {
+  margin-left: 0;
+}
 .contact ul li a {
   color: #ff784f;
   display: block;
@@ -1112,7 +1129,18 @@ nav ul li a {
       -ms-transform: scale(1.2);
           transform: scale(1.2);
 }
+.menu ul li a {
+  color: #ff784f;
+  display: block;
+  padding: 5px;
+  font-size: 18px;
+  text-decoration: none;
+}
 
+.menu ul li a:hover {
+  color: #333030;
+
+}
 footer .copyright {
   font-size: 14px;
   text-align: center;
