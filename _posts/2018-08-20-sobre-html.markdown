@@ -19,5 +19,5 @@ HTML, (Hypertext Markup Language), es uno de los tres inventos detrás de la *Wo
 2. `<HEAD>` 	Este es el comienzo del área de encabezado.
 3. `<BODY>` 	Este es el comienzo del documento en sí.
 
-* Por lo general ada etiqueta de inicio de una acción, <...>,  y tiene una etiqueta final de una acción </ ...>.
+* Por lo general cada etiqueta de inicio de una acción, <...>,  y tiene una etiqueta final de una acción </ ...>.
 * las etiquetas no son "sensibles a mayúsculas y minúsculas".  
