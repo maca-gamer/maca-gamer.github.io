@@ -22,3 +22,5 @@ tags: [Tecnología, Programación]
 
 * Por lo general cada etiqueta de inicio de una acción, <...>,  y tiene una etiqueta final de una acción </ ...>.
 * las etiquetas no son "sensibles a mayúsculas y minúsculas".  
+
+![HTML]({{site.baseurl}}/assets/img/htmlw.jpg)
