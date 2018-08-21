@@ -12,3 +12,9 @@ HTML, (Hypertext Markup Language), es uno de los tres inventos detrás de la Wor
 
  ## Origen
  > El lenguaje HTML fue inventado por Tim Berners-Lee en la década de 1990.
+
+Estas son sus primeras etiquetas o etiquetas:
+
+* <HTML> 	Este es el comienzo de un documento HTML.
+* <HEAD> 	Este es el comienzo del área de encabezado.
+* <BODY> 	Este es el comienzo del documento en sí.
