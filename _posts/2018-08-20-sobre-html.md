@@ -12,7 +12,7 @@ tags: [Tecnología, Programación]
 
 ## Origen
  
-> El lenguaje HTML fue inventado por [Tim Berners-Lee][Tim] en la década de 1990.
+> El lenguaje HTML fue inventado por [Tim Berners-Lee][Tim]{target="_blank"} en la década de 1990.
 
 #### Estas son las primeras etiquetas HTML :
 
@@ -25,6 +25,5 @@ tags: [Tecnología, Programación]
 
 ![HTML]({{site.baseurl}}/assets/img/htmlw.jpg)
 
-Para saber mas miarar wikipedia
 
-[Tim]: https://es.wikipedia.org/wiki/Tim_Berners-Lee
+[Tim]: https://es.wikipedia.org/wiki/Tim_Berners-Lee 
