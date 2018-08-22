@@ -26,4 +26,4 @@ tags: [Tecnología, Programación]
 ![HTML]({{site.baseurl}}/assets/img/htmlw.jpg)
 
 
-[Tim]: https://es.wikipedia.org/wiki/Tim_Berners-Lee 
+[Tim]: https://es.wikipedia.org/wiki/Tim_Berners-Lee/ 
