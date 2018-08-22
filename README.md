@@ -4,7 +4,7 @@
 
 ## Demo
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+<h1>Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)</h1>
 
 The main page would look like this:
 
@@ -34,4 +34,4 @@ GNU General Public License v3.0
 
 <p>If you want to show your appreciation, buy me one <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
 <p>Either way, your support is a way to thank me ❤️</p>
-<p align="center"><b>Thank you for your support!</b>:blush:</p>
+<p align="center"><b>Thank you for your support!</b></p>
