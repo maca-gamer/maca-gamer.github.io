@@ -15,12 +15,12 @@ tags: [Tecnología, Programación]
 <h5>texto</h5>
 <h6>texto</h6>
 
-#texto
-##texto
-###texto
-####texto
-#####texto
-######texto
+# texto
+## texto
+### texto
+#### texto
+##### texto
+###### texto
 
 ![HTML]({{site.baseurl}}/assets/img/htmlw.jpg)
 <img src="/assets/img/htmlw.jpg" width="400"/>
