@@ -27,4 +27,4 @@ tags: [Tecnología, Programación]
 
 **HTML**, (Hypertext Markup Language), es uno de los tres inventos detrás de la *World Wide Web*.
 
-<a href="https://es.wikipedia.org/wiki/Tim_Berners-Lee/ " >Tim Berners-Lee</a>
+<a href="https://es.wikipedia.org/wiki/Tim_Berners-Lee/ " target="_blanck" >Tim Berners-Lee</a>
