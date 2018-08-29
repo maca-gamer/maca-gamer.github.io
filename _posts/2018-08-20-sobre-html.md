@@ -33,3 +33,4 @@ tags: [Tecnología, Programación]
 
 > El lenguaje HTML fue inventado por [Tim Berners-Lee][Tim] en la década de 1990.
 
+({{site.baseurl}}/assets/img/htmlw.jpg)
