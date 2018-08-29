@@ -31,6 +31,6 @@ tags: [Tecnología, Programación]
 * Por lo general cada etiqueta de inicio de una acción, <...>,  y tiene una etiqueta final de una acción </ ...>.
 * las etiquetas no son "sensibles a mayúsculas y minúsculas".  
 
-> El lenguaje HTML fue inventado por [Tim Berners-Lee][Tim] en la década de 1990.
+> El lenguaje HTML fue inventado por [Tim Berners-Lee](https://es.wikipedia.org/wiki/Tim_Berners-Lee/) en la década de 1990.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N6PXdh_SYD4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
