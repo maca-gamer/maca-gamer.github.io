@@ -1,14 +1,14 @@
-title: Sé más que un blogger
-description:  Aprende a crear un blog.
+title: EL BLOGG DE MACARENA
+description:  VIDEOJUEGOS Y RETOS
 permalink: ':title/'
 baseurl: "/" 
-url: "https://canvas2017.github.io" 
+url: "https://maca-gamer.github.io/" 
 site-twitter: 
 
 
-author: Sé más que un blogger  
+author: EL BLOGG DE MACARENA
 author-img: logo-pie.png  
-about-author: El taller Malagabyte Summer para aprender a crear un blog con jekyll y una página web con HTML5 y CSS3.
+about-author: Este blogg va de videojuegos y retos con invitados sorpresas y sobretodo haré retos con mi hermana mayor.
 social-twitter: 
 social-facebook: 
 social-github: 
