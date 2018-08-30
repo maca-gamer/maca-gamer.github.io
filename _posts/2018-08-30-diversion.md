@@ -7,26 +7,7 @@ img: gato.jpg
 fig-caption: 
 tags: [Tecnología, Programación]
 ---
-
-Hola , bueno yo y he comentado unas 100 veces que este blogg va a ir de videojuegos y retos porque me encantan pero en las otras ocasiones había dicho que unos de mis invitados iba a ser mi hermana mayor pero ya no lo va 
-
-# texto
-## texto
-### texto
-#### texto
-##### texto
-###### texto
-
-**HTML**, (Hypertext Markup Language), es uno de los tres inventos detrás de la *World Wide Web*. Este lenguaje estandarizado hace posible construir páginas web y estructurar párrafos,listas o tablas. También permite integrar en estas páginas elementos multimedia como imágenes, secuencias de video y sonidos.
-
-1. `<HTML>` 	Este es el comienzo de un documento HTML.
-2. `<HEAD>` 	Este es el comienzo del área de encabezado.
-3. `<BODY>` 	Este es el comienzo del documento en sí.
-
-* Por lo general cada etiqueta de inicio de una acción, <...>,  y tiene una etiqueta final de una acción </ ...>.
-* las etiquetas no son "sensibles a mayúsculas y minúsculas".  
-
-> El lenguaje HTML fue inventado por [Tim Berners-Lee](https://es.wikipedia.org/wiki/Tim_Berners-Lee/) en la década de 1990.
+Hola , yo soy Macarena la creadora de este blogg , y os voy a repetir que este blogg va a ir de videojuegos y retos con invitados sorpresas y alguna vez que otra aremos alguna excursion o algo por el estilo es la primera vez que voy a decirlo de las excursiones , si os preguntais por que he dicho lo de las excursiones es porque me encanta la aventura y viajar , en las fiestas haré algo especial  para que os lo paseis todavía mejor , y bueno sobre lo de mi hermana mayor si que va a salir en los videos y le gastaremos alguna que otra broma haremos un pasaje del terror en HALLOWEN , y en NAVIDAD habriré los regalos con vosotros y me tomaré las uvas con vosotros también .
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IHNzOHi8sJs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
