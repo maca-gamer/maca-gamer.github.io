@@ -775,7 +775,7 @@ html {
 body {
   font-family: 'Open Sans', sans-serif;
   color: #1f2c33;
-  background-color: #ebebeb;
+  background-color: #FF00B3;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -1061,12 +1061,12 @@ table tfoot td {
   background-color:  #ff784f;
 }
 nav ul li a.active {
-	background: #3281b2;
-	color: #ffffff;
+	background: #FF96F6;
+	color: #8221EB;
 }
 nav ul li a:hover {
-	background: #3281b2;
-	color: #ffffff;
+	background: #8221EB;
+	color: #FF96F6;
 }
 
 nav ul li a {
