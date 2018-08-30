@@ -3,7 +3,7 @@ layout: post
 title: videojuegos y retos.
 date: 2018-08-30
 description: videojuegos y más retos.
-img: gato.jps
+img: gato.jpg
 fig-caption: 
 tags: [Tecnología, Programación]
 ---
